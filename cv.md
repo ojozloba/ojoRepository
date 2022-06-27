@@ -1,5 +1,4 @@
 # Ivan Zloba
----
 
 ![alt-текст](/img/photo1.jpg)
 
@@ -59,7 +58,6 @@ I received a higher engineering education after graduating from Brest State Tech
 ## **Сompleted projects**
 + [rsschool-cv](https://ojozloba.github.io/rsschool-cv/)
 ---
-
 | Project start datе | Project end date |
 |--------------------|------------------|
 |     26.06.2022     |    to this day   |
