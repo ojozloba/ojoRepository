@@ -1,1 +1,1 @@
-New project
+https://ojozloba.github.io/ojoRepository/cv
