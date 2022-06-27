@@ -17,8 +17,9 @@
 I am 26 years old. My temperament is phlegmatic.
 > Is it working? Don't touch.
 
-## Skills
+## **Skills**
 My skills are constantly improving, what I have at the moment:
+
 #### **Hard skills:** 
 + HTML;
 + CSS;
@@ -29,11 +30,13 @@ My skills are constantly improving, what I have at the moment:
   - Abode Photoshop (basic knowledge);
   - Blander 3D (basic knowledge);
   - video editors (basic knowledge).
+
 #### **Language skills:**
 + Russian (native);
 + Belarusian (basic knowledge);
 + Ukrain (basic knowledge);
 + English (Beginner). I’m working on it.
+
 #### **Soft skills:**
 + Assiduity, diligence, perseverance;
 + By hiring me you get all of me;
