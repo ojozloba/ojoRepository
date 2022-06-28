@@ -45,7 +45,7 @@ My skills are constantly improving, what I have at the moment:
 + I’m afraid, but I do it;
 + Politeness, good manners.
 
-## **Code Example** 
+## **Code example** 
 ```
 function multiply(a, b){
   return a * b
